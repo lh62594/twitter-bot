@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/lh62594/twitter-bot#readme",
   "dependencies": {
-    "twitter": "^1.7.1"
+    "twit": "^2.2.11",
+    "twitter": "^1.7.1",
+    "unique-random-array": "^1.0.1"
   }
 }
